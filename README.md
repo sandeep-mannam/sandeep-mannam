@@ -1,5 +1,5 @@
-### Hi there 👋
-**I'm sandeep-mannam , currently a undergraduate student making my path towards Data science | ML | python**
+### Hi there 👋,I'm sandeep mannam 
+**I'm currently a undergraduate student making my path towards Data science | ML | python**
 
 - 🌱 I’m currently learning Machine learning and python language
 - 👯 I’m looking to collaborate on ML | Data science project
