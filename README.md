@@ -7,3 +7,5 @@
 -    :round_pushpin:[linkedin](https://www.linkedin.com/in/sandeep-mannam-9b44571a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKl8b66QbS2iCcT8VNVxZSw%3D%3D)
 -    :round_pushpin:[instagram](sandeep_chowdary___)
 - ⚡ Fun fact: coffee
+-  :bank:Eduction details:stuck_out_tongue:
+- Eduction details<ul><li>Gitam institute of technology:  ECE branch</li><li> Naraya junior collage</li></ul>
